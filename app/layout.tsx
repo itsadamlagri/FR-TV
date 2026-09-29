@@ -278,7 +278,7 @@ export default function RootLayout({
         <main className="relative z-10">{children}</main>
         <Footer />
 
-        <GoogleAnalytics gaId="G-3FM5J2659W" />
+        <GoogleAnalytics gaId="G-BGS4JH0YS4" />
         <FloatingWhatsApp />
       </body>
     </html>
