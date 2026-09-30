@@ -6,7 +6,7 @@ import { useMemo } from 'react';
 
 // Suffixes distincts pour les doublons (alt unique sur CHAQUE image rendue)
 const DUPLICATE_SUFFIXES = [
-  ' — compatible abonnement IPTV IPTV-Abonnement',
+  ' — compatible abonnement IPTV',
   ' — inclus dans le service IPTV en France',
   ' — supporté sans configuration',
   ' — disponible sur toutes les formules',

@@ -4,8 +4,8 @@ import { Metadata } from 'next';
 // ---------------------------------------------------------------------------
 // CORE BRAND & DOMAIN CONFIGURATION (FRANCE)
 // ---------------------------------------------------------------------------
-const DOMAIN = 'iptv-abonnement.vip';
-const BRAND_NAME = 'IPTV-Abonnement';
+const DOMAIN = 'abonneiptv.org';
+const BRAND_NAME = 'Abonné IPTV';
 const SITE_URL = `https://${DOMAIN}`;
 
 // Focus keywords (priority order)

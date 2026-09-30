@@ -164,8 +164,8 @@ const IPTVFranceSchema = () => {
         brand: { '@type': 'Brand', name: BRAND },
         aggregateRating: {
           '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '1255',
+          ratingValue: '4.8',
+          reviewCount: '1055',
           bestRating: '5',
           worstRating: '1',
         },

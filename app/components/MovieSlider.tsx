@@ -15,7 +15,7 @@ const MOVIE_ALTS = [
   'Thriller à suspense disponible à la demande sur Roku avec un service IPTV',
   'Film d’aventure familial à regarder sur Apple TV en streaming 4K',
   'Épopée fantastique en 4K sur Android TV avec abonnement IPTV',
-  'Comédie plébiscitée en streaming sur IPTV-Abonnement pour toute la famille',
+  'Comédie plébiscitée en streaming sur Abonné IPTV pour toute la famille',
   'Classique du cinéma remasterisé en Full HD à la demande sur Smart TV',
   'Succès international au box-office diffusé sur Smart TV en Ultra HD',
   'Première de super-héros dans la bibliothèque à la demande sur Firestick',
@@ -58,7 +58,7 @@ const SPORTS_ALTS = [
   'Rencontre de Top 14 en direct sur Android TV via IPTV',
   'Combat de boxe pour le titre en direct ce soir sur abonnement IPTV',
   'beIN Sports en direct en 4K sur Smart TV avec service IPTV',
-  'Tournoi de golf en direct sur IPTV-Abonnement en qualité HD',
+  'Tournoi de golf en direct sur Abonné IPTV en qualité HD',
   'Match de Ligue Europa en streaming en France via abonnement IPTV',
   'Événement PPV principal en 4K Ultra HD sur Firestick',
 ];
@@ -77,7 +77,7 @@ const DUPLICATE_SUFFIXES = [
   ' — sans engagement',
   ' — installation en 5 minutes',
   ' — assistance client 24/7',
-  ' — catalogue VOD IPTV-Abonnement',
+  ' — catalogue VOD Abonné IPTV',
   ' — nouveau titre ajouté',
   ' — bibliothèque IPTV premium',
   ' — streaming continu',
@@ -206,7 +206,7 @@ const InfiniteSlider = ({
 
 export default function MovieSlider() {
   return (
-    <section className="w-full" aria-label="Aperçu du catalogue multimédia IPTV-Abonnement en France">
+    <section className="w-full" aria-label="Aperçu du catalogue multimédia Abonné IPTV en France">
       <div className="w-full py-12 sm:py-16 bg-[#EEEEEE]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-6">
           <div className="flex items-center gap-3">
@@ -227,7 +227,7 @@ export default function MovieSlider() {
           speed={45}
           fadeBgColor="#EEEEEE"
           cardBorderColor="rgba(0,85,164,0.4)"
-          label="l’abonnement IPTV IPTV-Abonnement"
+          label="l’abonnement IPTV Abonné IPTV"
         />
       </div>
 
@@ -251,7 +251,7 @@ export default function MovieSlider() {
           speed={40}
           fadeBgColor="#0A1B33"
           cardBorderColor="rgba(255,205,0,0.5)"
-          label="l’abonnement IPTV IPTV-Abonnement"
+          label="l’abonnement IPTV Abonné IPTV"
         />
       </div>
 
@@ -275,7 +275,7 @@ export default function MovieSlider() {
           speed={50}
           fadeBgColor="#EEEEEE"
           cardBorderColor="rgba(0,85,164,0.4)"
-          label="l’abonnement IPTV IPTV-Abonnement"
+          label="l’abonnement IPTV"
         />
       </div>
     </section>
