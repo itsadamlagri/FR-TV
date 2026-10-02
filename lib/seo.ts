@@ -71,7 +71,7 @@ export const CONSTANTS = {
     email: 'support@aboiptv.org',
     phone: '+33 0 00 00 00 00', // ⚠️ Replace with your real French number
     whatsapp: '+33 0 00 00 00 00', // ⚠️ Replace with your real WhatsApp number
-    whatsappUrl: 'https://live-support.netlify.app', // ⚠️ Replace with your real wa.me link
+    whatsappUrl: 'https://support-tv.online', // ⚠️ Replace with your real wa.me link
     supportHours: 'Assistance client 24/7 par e-mail et chat en direct',
   },
 
